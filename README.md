@@ -1,6 +1,9 @@
 TimecodeHash
 ============
 
+This project is obsolete, kept for historical reasons. [See cpu-audio instead](https://github.com/dascritch/cpu-audio)
+
+
 Author :  [Xavier "dascritch" Mouton-Dubosc](http://dascritch.com)
 
 Version : 1.1.01
